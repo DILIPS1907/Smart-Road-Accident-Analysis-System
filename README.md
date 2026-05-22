@@ -88,11 +88,10 @@ https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 ```bash
 Smart-Road-Accident-Analysis-System/
 │
-├── FINAL_US_ACCIDENT_PROJECT.ipynb
-├── US_Accident_Report.docx
+├── Smart Road Accident Analysis System.ipynb
+├── ce3Report.docx
 ├── README.md
 ├── requirements.txt
-├── images/
 └── dataset_link.txt
 ```
 
